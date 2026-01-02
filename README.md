@@ -124,12 +124,12 @@ streamlit run streamlit_app.py
 
 ## 🧠 Créditos
 
-- **Autor/es:** [Tu nombre / grupo]
+- **Autor/es:** Cristian Rosales / Grupo 17
 - **Materia:** Ciencia de Datos – UTN FRM  
-- **Docente:** [nombre del docente si aplica]  
+- **Docente:** Pablo Marinozi - Facundo Bromberg 
 - **Herramientas:** Python, Altair, Streamlit, scikit-learn, imbalanced-learn  
 - **Dataset:** `data/datos_procesados_modelo_v2.csv`  
-- **Modelo:** `modelo_final.pkl` (Google Drive)
+- **Modelo:** `modelo_final.pkl` 
 
 ---
 
